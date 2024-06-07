@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743837763209",
+    "project_id": "tarea8-crudfirebase-maylin",
+    "storage_bucket": "tarea8-crudfirebase-maylin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743837763209:android:1d9ed9e4f3523d2ea5e858",
+        "android_client_info": {
+          "package_name": "com.example.tarea8_crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMBGWThXWZS5tdCG10joNuCj-guJsNYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
