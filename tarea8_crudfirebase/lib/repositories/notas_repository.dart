@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import '../models/notas_model.dart';
 
-class NotaRepositorio {
+class NotasRepository {
   final FirebaseFirestore _db = FirebaseFirestore.instance;
 
   Future<void> agregarNota(notas nota) async {
